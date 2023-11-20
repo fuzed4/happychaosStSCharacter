@@ -1,0 +1,85 @@
+{
+  "${modID}:PowerID": {
+    "NAME": "Ultimate Power",
+    "DESCRIPTIONS": [
+      "You are Very Cool and Strong."
+    ]
+  },
+  "${modID}:Concentration": {
+    "NAME": "Concentration",
+    "DESCRIPTIONS": [
+      "Some cards get enhanced by spending #bConcentration.",
+      " The Focused keyword signifies cards that can do this."
+    ]
+  },
+  "${modID}:Ammo": {
+    "NAME": "Ammo",
+    "DESCRIPTIONS": [
+      "Consumed by specific cards.",
+      " Cannot play #yAmmo cards without the minimum amount."
+    ]
+  },
+  "${modID}:Steady": {
+    "NAME": "Steady",
+    "DESCRIPTIONS": [
+      "#yBlast does triple damage. Decreases per use."
+    ]
+  },
+  "${modID}:Cursed": {
+    "NAME": "Cursed",
+    "DESCRIPTIONS": [
+      "Cursed does damage equal to its stacks when you end your turn.",
+      "Five stacks are removed after damage is applied."
+    ]
+  },
+  "${modID}:BackupMagazine": {
+    "NAME": "Backup Magazine",
+    "DESCRIPTIONS": [
+      "Add #yBlast into your hand at the start of your turn."
+    ]
+  },
+  "${modID}:GrudgeP": {
+    "NAME": "Grudge",
+    "DESCRIPTIONS": [
+      "At the start of your turn, apply Curse to all enemies."
+    ]
+  },
+  "${modID}:CatalystPrimers": {
+    "NAME": "Catalyst Primers",
+    "DESCRIPTIONS": [
+      "Exhausting cards deals damage to a random enemy."
+    ]
+  },
+  "${modID}:Attuned": {
+    "NAME": "Attuned",
+    "DESCRIPTIONS": [
+      "Playing elemental cards with this power adds an extra effect.",
+      " Fire: 5 Vigor.",
+      " Thunder: ALL enemies are hit for 8 damage.",
+      " Wind: A random enemy is hit for 12 damage.",
+      " Water: Gain 6 Block.",
+      " Playing non-element cards removes this power."
+    ]
+  },
+  "${modID}:Erosion": {
+    "NAME": "Erosion",
+    "DESCRIPTIONS": [
+      "Eroded enemies take more damage based on stack amount. nL",
+      "Increases by 1 each turn."
+    ]
+  },
+  "${modID}:GatheringShores": {
+    "NAME": "Gathering Shores",
+    "DESCRIPTIONS": [
+      "Add Torrent to your hand at 3 stacks.",
+      "Remove all stacks."
+    ]
+  },
+  "${modID}:SelfSpreadingCurse": {
+    "NAME": "Self-Spreading Curse",
+    "DESCRIPTIONS": [
+      "Take damage equal to stacks at end of turn.",
+      "If an enemy hits you, lose one stack and apply eight Cursed."
+    ]
+  }
+}

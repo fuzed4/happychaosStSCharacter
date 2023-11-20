@@ -1,0 +1,152 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Shove": {
+    "NAME": "Shove",
+    "DESCRIPTION": "Deal !D! damage. NL Remove !M! Strength from enemy. NL Exhaust."
+  },
+  "${modID}:Blast": {
+    "NAME": "Blast",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Exhaust."
+  },
+  "${modID}:Strike_Ceru": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "${modID}:Defend_Ceru": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "${modID}:DeusExMachina": {
+    "NAME": "Deus Ex Machina",
+    "DESCRIPTION": "Exalted: Add 6 Blasts into your hand. NL Deal !D! x 12 damage."
+  },
+  "${modID}:Scapegoat": {
+    "NAME": "Scapegoat",
+    "DESCRIPTION": "Lose !M! HP. NL Gain 1 Buffer. NL Exhaust."
+  },
+  "${modID}:SteadyAim": {
+    "NAME": "Steady Aim",
+    "DESCRIPTION": "Gain !M! Steady. NL Lose 2 Dexterity temporarily."
+  },
+  "${modID}:Reload": {
+    "NAME": "Reload",
+    "DESCRIPTION": "Add !M! Blast(s) to your hand.",
+    "UPGRADE_DESCRIPTION": "Add !M! Blasts to your hand."
+  },
+  "${modID}:CombatRoll": {
+    "NAME": "Combat Roll",
+    "DESCRIPTION": "Gain !B! Block. NL Add 2 Blasts to your hand."
+  },
+  "${modID}:Backdash": {
+    "NAME": "Backdash",
+    "DESCRIPTION": "Gain !M! Dexterity this turn. NL At the end of this turn, lose !M! Dexterity."
+  },
+  "${modID}:PistolWhip": {
+    "NAME": "Pistol Whip",
+    "DESCRIPTION": "Deal !D! damage twice. NL Add Blast to your hand."
+  },
+  "${modID}:CurseToss": {
+    "NAME": "Curse Toss",
+    "DESCRIPTION": "Apply !M! ${modID}:Cursed."
+  },
+  "${modID}:GreaterSplitHorizontal": {
+    "NAME": "Great Split: Horizontal",
+    "DESCRIPTION": "WARNING! ONLY USE IN EMERGENCIES. NL Deal !D! damage to all enemies."
+  },
+  "${modID}:WindedPunch": {
+    "NAME": "Winded Punch",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
+  },
+  "${modID}:OTG": {
+    "NAME": "OTG",
+    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, restore 1 Energy."
+  },
+  "${modID}:BackupMagazine": {
+    "NAME": "Backup Magazine",
+    "DESCRIPTION": "At the start of your turn, add !M! Blast to your hand."
+  },
+  "${modID}:EvokedSteel": {
+    "NAME": "Evoked Steel",
+    "DESCRIPTION": "Discard all cards. NL Gain Vigor equal to cards discarded. NL Add *Railpiercer into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Discard all cards. NL Gain Vigor equal to cards discarded. NL Add *Railpiercer+ into your hand. NL Gain Vigor equal to cards discarded. NL Exhaust."
+  },
+  "${modID}:Railpiercer": {
+    "NAME": "Railpiercer",
+    "DESCRIPTION": "Deal !D! x !M! damage."
+  },
+  "${modID}:Grudge": {
+    "NAME": "Grudge",
+    "DESCRIPTION": "${modID}:Cursed cannot go below !M! stacks.",
+    "UPGRADE_DESCRIPTION": "Innate. NL ${modID}:Cursed cannot go below !M! stacks."
+  },
+  "${modID}:HexNails": {
+    "NAME": "Hex Nails",
+    "DESCRIPTION": "Deal !D! x 3 damage. NL Apply !M! x 3 ${modID}:Cursed."
+  },
+  "${modID}:Focus": {
+    "NAME": "Focus",
+    "DESCRIPTION": "Gain 5 ${modID}:Concentration. NL Scry !M!."
+  },
+  "${modID}:CatalystPrimers": {
+    "NAME": "Catalyst Primers",
+    "DESCRIPTION": "Whenever a card is exhausted in combat, deal !M! damage to a random enemy."
+  },
+  "${modID}:SplitShot": {
+    "NAME": "Split Shot",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies 2 times."
+  },
+  "${modID}:GoForBullseye": {
+    "NAME": "Go for Bullseye",
+    "DESCRIPTION": "Apply !M! Frail. NL Deal !D! damage. NL Add *Blast+ into your hand."
+  },
+  "${modID}:Sparks": {
+    "NAME": "Sparks",
+    "DESCRIPTION": "Fire. NL Deal !D! damage."
+  },
+  "${modID}:Static": {
+    "NAME": "Static",
+    "DESCRIPTION": "Thunder. NL Deal !D! damage. NL Add a copy of this card to your discard pile."
+  },
+  "${modID}:Swirl": {
+    "NAME": "Swirl",
+    "DESCRIPTION": "Wind. NL Gain !B! Block. NL Apply !M! Weak to ALL enemies."
+  },
+  "${modID}:Tides": {
+    "NAME": "Tides",
+    "DESCRIPTION": "Water. NL Deal !D! damage. NL Gain !M! Gathering Shores."
+  },
+  "${modID}:Torrent": {
+    "NAME": "Torrent",
+    "DESCRIPTION": "Water. NL Deal !D! damage. NL Apply !M! ${modID}:Erosion."
+  },
+  "${modID}:PsychBurst": {
+    "NAME": "Psych Burst",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block. NL Gain !M! Vulnerable."
+  },
+  "${modID}:DeflectShield": {
+    "NAME": "Deflect Shield",
+    "DESCRIPTION": "If the enemy intends to attack, gain !B! Block. NL If you do not have Block after playing this card, Exhaust 1 card."
+  },
+  "${modID}:DivergentFist": {
+    "NAME": "Divergent Fist",
+    "DESCRIPTION": "Deal !D! damage. NL If this does *no *unblocked *damage, apply !M! ${modID}:Cursed."
+  },
+  "${modID}:CursedBarrier": {
+    "NAME": "Cursed Barrier",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Self-Spreading Curse."
+  },
+  "${modID}:DawnOfRevival": {
+    "NAME": "Dawn of Revival",
+    "DESCRIPTION": "Everyone gains 5 Vulnerable and Weak. NL Gain !M! Strength. NL Exhaust."
+  }
+}

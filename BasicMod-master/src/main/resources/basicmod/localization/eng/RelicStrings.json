@@ -1,0 +1,23 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+  "${modID}:SixInTheChamber": {
+    "NAME": "Six in the Chamber",
+    "FLAVOR": "Freest wall stick combo of my life.",
+    "DESCRIPTIONS": [
+      "Every 6th Attack you play adds Blast to your hand."
+    ]
+  },
+  "${modID}:TalismanCasings": {
+    "NAME": "Talisman Casings",
+    "FLAVOR": "This jams the gun if you do this in real life.",
+    "DESCRIPTIONS": [
+      "Using Blast applies 2 Cursed to the targeted enemy."
+    ]
+  }
+}
