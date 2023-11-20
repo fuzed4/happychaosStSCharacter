@@ -1,36 +1,37 @@
-# Basic Mod
+# Happy Chaos
 
-This is an empty Slay the Spire mod + a modding tutorial.
+a custom character based off of Happy Chaos from Guilty Gear.
 
-This tutorial will help with setup and the basics of Slay the Spire modding, but it will not teach you Java. If you know nothing of Java or programming in general, you are strongly recommended to look up a free online course and do at least some of it. It is possible to do modding with almost no proper knowledge, but it will make things much more difficult.
+A shiv-esque character, reliant on generating attacks and resources to overwhelm enemies.
+
+### Mechanics
+
+Steady: Blast (temporary card generated) deals TRIPLE damage. (Strength only affects initial damage)
+
+Curse: Stacks of Curse will explode at the end of your turn. Any attached curse stacks will fall off by five at the start of your next turn.
+
+Concentration: An additional resource needed to activate a special effect of certain cards. Only generated through specific cards and relics.
+
+- Exalted: Requires 10 Concentration for effect to occur
+- Focused: Requires 5 Concentration for effect to occur
+
+**ELEMENT SYSTEM**
+Card archetype that plays upon the character being an almighty sorcerer who casts destructive spells with ease.
+
+The Six Elements:
+- Fire (single target, vigor)
+- Wind (random targets, weak)
+- Water (single/all target, **Erosion**)
+- Thunder (single/all target, 0 cost cards)
+- Ki (Energy generation / buffs)
+- Light (All targets, elusive cards, big damage)
+
+**Tuning State**
+TBC
+
 
 ---
-
-## Check the wiki to get started:
-
+template i used:
 https://github.com/Alchyr/BasicMod/wiki
 
----
 
-## Know what you're doing?
-
-You can still use this mod as a base, or you could use another template like https://github.com/DarkVexon/ProTemplate
-
-You can find more options in the pins of the #modding-technical channel in the Slay the Spire discord server.
-
----
-
-### Some HD Slay the Spire art assets (courtesy of Gremious, creator of DefaultMod):
-
-Includes:
-- Empty Relic Template feat. empty bottle
-- Empty Card Template
-- Color-Changable cardback
-- A couple of HD Monster vectors (Louse, Nob, Sentry, Sneaky Gremlin)
-- A coupe of HD items (J.A.X., A Coin)
-- 2 people silhouettes
-- A curse Background
-
-https://github.com/Gremious/StS-DefaultModBase#some-hd-slay-the-spire-art-assets
-
----
